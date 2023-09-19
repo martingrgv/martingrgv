@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on projects with people who are on the topic and can teach me more because I love learning new things and improve day by day
 - 📫 How to reach me? You can write me email on martin.geor04@gmail.com for now.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lyudvika&label=Profile%20views&color=0e75b6&style=flat" alt="lyudvika" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=martingrgv&label=Profile%20views&color=0e75b6&style=flat" alt="martingrgv" /> </p>
 <h3>Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
