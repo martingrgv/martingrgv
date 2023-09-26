@@ -27,9 +27,14 @@
 <br/>
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=martingrgv&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact) <br/>
+<!-- Block stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=martingrgv&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=martingrgv&theme=omni&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=martingrgv&theme=omni&hide_border=false) <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=martingrgv&theme=omni&hide_border=false)
+-->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martingrgv&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="stats"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=martingrgv&theme=omni&hide_border=false&include_all_commits=false&count_private=true" alt="stats"/> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=martingrgv&theme=omni&hide_border=false" alt="stats"/> </p>
 
 # Daily Memes:
 <img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
