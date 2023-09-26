@@ -13,7 +13,7 @@
 - 📫 How to reach me? You can write me email on martin.geor04@gmail.com or follow the links on my profile.
 
 <br/>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=martingrgv&label=Profile%20Visitors&color=9b4993&style=flat" alt="martingrgv"/></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=martingrgv&label=Profile%20Visitors&color=9b4993&style=flat" alt="visitor count: 404"/></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
