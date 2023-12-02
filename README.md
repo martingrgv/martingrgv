@@ -7,7 +7,7 @@
 <img align="right" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width=300px alt="coding gif">
 
 - 👀 I’m interested in software developing, game developing, 3D modeling and in any kind of technology
-- 🌱 I’m currently studying C# in `Softuni.bg`. I am willing to start a career one day
+- 🌱 I’m currently studying C# in <a href="https://softuni.bg/curriculum">Softuni.bg</a>. I am willing to start a career one day
 - 💞️ I’m looking to collaborate on projects with people who are on the topic and can teach me more. I love learning new things and improve day by day
 - ⚡ I love my hobbies. I play guitar, learn new skills, read books, game and train calisthenics
 - 📫 How to reach me? You can write me email on martin.geor04@gmail.com or follow the links on my profile.
