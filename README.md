@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Martin Georgiev</h1>
+<h1 align="center">Hi, I'm Martin Georgiev</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=25&duration=3650&pause=1500&color=9B4993&center=true&vCenter=true&width=435&lines=Software+Engineer+Student;Studying+C%23+at+SoftUni" alt="Typing SVG"/>
