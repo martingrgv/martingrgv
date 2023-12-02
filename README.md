@@ -12,7 +12,7 @@
 - ⚡ I love my hobbies. I play guitar, learn new skills, read books, game and train calisthenics
 
 <br/>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=martingrgv&label=Profile%20Visitors&color=9b4993&style=flat" alt="visitor count: 404"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=martingrgv&label=Profile%20Visitors&color=9b4993&style=flat" alt="visitor count: 404"/></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
