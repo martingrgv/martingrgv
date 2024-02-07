@@ -38,4 +38,6 @@
 
 
 # Daily Memes:
-<img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
+<p align="center">
+  <img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
+</p>
