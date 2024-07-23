@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=25&duration=3650&pause=1500&color=9B4993&center=true&vCenter=true&width=435&lines=Junior+Software+Engineer;Martin+Willson+Georgiev" alt="Typing SVG"/>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?weight=500&size=30&letterSpacing=5px&duration=1000&pause=1000&color=E66CDA&center=true&vCenter=true&width=600&height=60&lines=Martin+Willson+Georgiev;Junior+Software+Engineer)](https://git.io/typing-svg)
 
 <img align="right" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width=300px alt="coding gif">
 
