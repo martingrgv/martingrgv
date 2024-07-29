@@ -37,5 +37,5 @@
 
 # Daily Memes:
 <p align="center">
-  <img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
+  <img src='https://api.memegen.link/images/buzz/memes/memes_everywhere.webp' style="height: 350px;"/>
 </p>
