@@ -3,7 +3,7 @@
 <img align="right" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width=300px alt="coding gif">
 
 - I’m keen on software developing and software developing concepts
-- I’m a student in C# in <a href="https://softuni.bg/curriculum">SoftUni</a>. You can check my `Softuni-Study` repository for more information
+- I’m studied C# Full-Stack Developer course at <a href="https://softuni.bg/curriculum">SoftUni</a>. You can review my `Softuni-Study` repository to get understanding of tools and projects I built there.
 - I’m looking to collaborate on projects and solve problems.
 - I'm eager to learn and constantly improve.
 - I've got my hobbies: microlearning, gaming, tech, self-improvement
