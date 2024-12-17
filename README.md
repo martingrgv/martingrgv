@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,js,jquery,bootstrap,mysql,mongodb,docker,postman,git,regex,vscode,bash,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,jquery,bootstrap,mysql,mongodb,docker,postman,git,regex,vscode,bash,linux&theme=dark)](https://skillicons.dev)
 
 
 <!--
