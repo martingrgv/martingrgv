@@ -3,13 +3,15 @@
 <img align="right" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width=300px alt="coding gif">
 
 - I’m a .NET Developer
-- I'm currently developing UI Automation Tasks for banking application and RESTfull APIs at Elfshock
+- I'm currently developing UI Automation Tasks for banking application and RESTful APIs at Elfshock
 - My goal is constant improvement
 - I love my hobbies: microlearning, gaming, music and more!
   
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
+
+
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,npm,postgres,postman,docker,git,bitbucket,regex,bash,linux,vim&theme=dark)](https://skillicons.dev)
 
