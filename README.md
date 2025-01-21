@@ -3,7 +3,7 @@
 <img align="right" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width=300px alt="coding gif">
 
 - I’m a .NET Developer
-- I'm currently developing UI Automation Tasks for banking application for Elfshock
+- I'm currently developing UI Automation Tasks for banking application and RESTfull APIs at Elfshock
 - My goal is constant improvement
 - I love my hobbies: microlearning, gaming, music and more!
   
