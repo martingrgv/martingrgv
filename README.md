@@ -6,9 +6,7 @@
 Whether it's building robust applications from the ground up or optimizing existing systems,<br/>
 I thrive on finding creative solutions to the toughest problems.</i>
 
-<h3 align="left">Languages and Tools:</h3>
-
-
+<h3 align="left">Tech Stack:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,postgres,rabbitmq,postman,docker,bash,linux,&theme=dark)](https://skillicons.dev)
 
